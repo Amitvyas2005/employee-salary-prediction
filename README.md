@@ -105,7 +105,7 @@ A robust pipeline was developed to classify employee salaries using machine lear
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amitvyas2005/employee salaryprediction
+   git clone https://github.com/Amitvyas2005/employee-salary-prediction
    
    cd employee-salary-prediction
    ```
